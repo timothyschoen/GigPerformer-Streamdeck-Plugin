@@ -5,6 +5,10 @@
 
 <br>
 
+# Note
+
+Source is down for now, but will be back up soon!
+
 # Build instructions
 
 ```
